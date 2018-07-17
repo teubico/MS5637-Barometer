@@ -1,5 +1,5 @@
-MS5637Barometer
-setOSR
-readADC
-readTemperature
-readTCPressure
+MS5637Barometer	KEYWORD1
+setOSR	KEYWORD2
+readADC	KEYWORD2
+readTemperature	KEYWORD2
+readTCPressure	KEYWORD2
